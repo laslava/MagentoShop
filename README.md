@@ -1,2 +1,1 @@
 # MagentoShop
-Add new test
